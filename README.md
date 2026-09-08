@@ -1,3 +1,4 @@
 # calculator
-project 1
+Basic_projects: 1 [Calculator]
+<br>
 Author- Nishant Jejani
